@@ -1,6 +1,5 @@
 # Java Application using Gradle with CI/CD Pipeline
 
-## CodeAlpha Internship - Task 3
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Gradle](https://img.shields.io/badge/Gradle-8.14.3-blue)
